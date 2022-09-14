@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d(TAG, "First Time Using Android Studio")
+        Log.d(TAG, "BINAR TUTORIAL")
     }
 }
