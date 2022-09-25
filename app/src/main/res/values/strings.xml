@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Binarch4</string>
+    <string name="title">Rock Paper Scissors</string>
+    <string name="versus">VS</string>
 </resources>

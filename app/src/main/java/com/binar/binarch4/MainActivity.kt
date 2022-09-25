@@ -5,11 +5,12 @@ import android.os.Bundle
 import android.util.Log
 
 class MainActivity : AppCompatActivity() {
-    val TAG = "MainActivity"
+    val TAG = "mainActivity"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_game)
         Log.d(TAG, "First Time Using Android Studio")
         Log.d(TAG, "BINAR TUTORIAL")
     }
+
 }
