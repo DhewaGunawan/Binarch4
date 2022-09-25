@@ -2,4 +2,7 @@
     <string name="app_name">Binarch4</string>
     <string name="title">Rock Paper Scissors</string>
     <string name="versus">VS</string>
+    <string name="you_win">Player Win</string>
+    <string name="you_lose">Bot Win</string>
+    <string name="draw">Draw</string>
 </resources>
